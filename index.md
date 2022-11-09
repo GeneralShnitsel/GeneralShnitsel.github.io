@@ -4,8 +4,11 @@ layout: default
 
 ## Hello!
 
-My name is Gatis Silnieks and this is my portfolio
+###### My name is Gatis Silnieks and this is my portfolio.
 
+I have a passion for game development, specifically programming.
+
+I find Programming fun and exciting as its just a form of creative problem solving and lets me use my brain to find unique solutions to unique problems.
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
