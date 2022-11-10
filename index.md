@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Portfolio](./portfolio.html)
+[Home](./)  [Portfolio](./portfolio.html)
 
 ## Hello!
 

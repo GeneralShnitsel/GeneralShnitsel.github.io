@@ -2,8 +2,33 @@
 layout: default
 ---
 
-## Welcome to another page
+[Home](./)  [Portfolio](./portfolio.html)
 
-_yay_
+## This is my portfolio
 
-[back](./)
+
+#### Current Projects:
+
+*   Dollhouse
+
+*   Fishing game (Unchosen Prototype)
+
+#### Group projects:
+
+*   Ghoulish Pipedream
+
+*   Duplicitous Defrauders
+
+*   Dromos
+
+*   Puckin' Hell
+
+#### Solo Projects
+
+*   Minesweeper 3D
+
+*
+
+
+
+
