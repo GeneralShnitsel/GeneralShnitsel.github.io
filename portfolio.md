@@ -15,7 +15,7 @@ layout: default
 
 #### Group projects:
 
-*   Ghoulish Pipedream
+*   [Ghoulish Pipedream](./GhoulishPipedream)
 
 *   Duplicitous Defrauders
 
