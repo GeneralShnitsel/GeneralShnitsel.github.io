@@ -14,6 +14,8 @@ I enjoy working and communicating in a team to build games and create mechanics 
 
 I work effeiciently when under a time constraints as this encourages me to actively look for functional and effective solutions to whatever prolem I may be facing ina short amount of time alloweing me to adapt quickly.
 
+I studied Game Development in college and continued to study it at university, which is where I gained most of my experience with programming, programming langues and Game Development as a whole.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
