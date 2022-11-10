@@ -18,7 +18,7 @@ I studied Game Development in college and continued to study it at university, w
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Portfolio](./portfolio.html).
 
 There should be whitespace between paragraphs.
 
