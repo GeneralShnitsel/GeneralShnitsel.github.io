@@ -21,8 +21,6 @@ layout: default
 
 *   Dromos
 
-*   Puckin' Hell
-
 #### Solo Projects
 
 *   Minesweeper 3D
