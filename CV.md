@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./)  [Portfolio](./portfolio.html)[Contacts](./Contacts.html)[CV](./CV.html)
+[Home](./)&nbsp;&nbsp;[Portfolio](./portfolio.html)&nbsp;&nbsp;[Contacts](./Contacts.html)&nbsp;&nbsp;[CV](./CV.html)
 
 ## Here is my CV
 
