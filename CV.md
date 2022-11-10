@@ -6,6 +6,7 @@ layout: default
 
 ## Here is my CV
 
-
+<iframe src="./CV.pdf" width="100%" height="500px">
+    </iframe>
 
 

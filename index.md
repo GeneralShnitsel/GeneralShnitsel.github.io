@@ -18,3 +18,13 @@ I work effeiciently when under a time constraints as this encourages me to activ
 
 I studied Game Development in college and continued to study it at university, which is where I gained most of my experience with programming, programming langues and Game Development as a whole.
 
+##### Skills:
+
+*	Unreal Engine (C++, Blueprints)
+*	Unity Engine (C#)
+*	Version control (Git)
+*	Visual Basic
+*	Teamwork and Communication
+*	Bilingual (Latvian/English)
+ 
+
