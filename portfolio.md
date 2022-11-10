@@ -2,7 +2,9 @@
 layout: default
 ---
 
-[Home](./)  [Portfolio](./portfolio.html)
+[Home](./)
+[Portfolio](./portfolio.html)
+
 
 ## This is my portfolio
 
@@ -21,9 +23,9 @@ layout: default
 
 #### Solo Projects
 
-*   Minesweeper 3D
+*   [Minesweeper 3D](./Mine.html)
 
-*   Arduino Fishing Game
+*   [Arduino Fishing Game](./Arduino.html)
 
 
 
