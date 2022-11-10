@@ -9,17 +9,15 @@ layout: default
 
 #### Current Projects:
 
-*   Dollhouse
+*   [Dollhouse](Dollhouse.html)
 
-*   Fishing game (Unchosen Prototype)
+*   [Fishing game](./FishingGame.html)
 
 #### Group projects:
 
 *   [Ghoulish Pipedream](./ghoulishpipedream.html)
 
-*   Duplicitous Defrauders
-
-*   Dromos
+*   [Dromos](./Dromos.html)
 
 #### Solo Projects
 
