@@ -12,7 +12,7 @@ layout: default
 
 #### the concept of the game:
 
-<img src="Cultist.png" alt="Cultist">
+<img src="GeneralShnitsel/GeneralShnitsel.github.io/Images/Cultist.png" alt="Cultist">
 
 As an avid, but naïve practitioner of the dark arts, you seem to have bitten off more than you can chew, by accidentally summoning an ancient entity, Vual. Under the promise of unimaginable power and knowledge, you have been tasked with spreading the Gospel of Vual and his teachings to recruit members for His cult.
 
