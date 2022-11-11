@@ -35,4 +35,4 @@ I also created a Decoy ability that spawns an innactive copy of the player which
 
 <img src="Images/Convert.PNG" alt="Convert">
 
-This is the Script I made for the conversion of the houses in the town of Dromos as the player was able to walk up to said house and begin to convert it to the cult of Vaul by talking to the townsfolk and convincing them to join the cult.
+This is the Script I made for the conversion of the houses in the town of Dromos as the player was able to walk up to said house and begin to convert it to the cult of Vaul by talking to the townsfolk and convincing them to join the cult. The Houses can also be baptized by the priest which is why the player has the ability to chase the priest away to stop them from baptizing the house.

@@ -19,7 +19,7 @@ layout: default
 
 #### Solo Projects
 
-*   [Minesweeper 3D](./Mine.html)
+*   [No Nonsense Minesweeper](./Mine.html)
 
 
 

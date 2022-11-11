@@ -22,4 +22,12 @@ The ghost is able to free-fly through walls and pick up small objects from place
 
 The gohst has the ability to turn on lights when near them so that the human player can navigate through the level without having to be in the dark.
 
+<img src="Images/Light.PNG" alt="light">
 
+The Pickup script worked by adding the interacted object as a child object to the player character of Larry who is a ble to lift both big and small objects, which then allowed the player to freely walk around with a picked up object and use it or move it in whatever way the player needed to.
+
+<img src="Images/Hold.PNG" alt="Hold">
+
+The ghost had a slightly different pick up mechanic as the ghost posseses and floats objects around instead of holding them like the Larry player character does which allowed for the ghost to be able to bring objects through the walls like a ghost compared to Larry who is stopped by walls since he is a human.
+
+<img src="Images/Possesion.PNG" alt="Posession">
