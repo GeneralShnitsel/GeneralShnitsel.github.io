@@ -12,6 +12,8 @@ layout: default
 
 #### the concept of the game:
 
+![](Cultist.png)
+
 As an avid, but naïve practitioner of the dark arts, you seem to have bitten off more than you can chew, by accidentally summoning an ancient entity, Vual. Under the promise of unimaginable power and knowledge, you have been tasked with spreading the Gospel of Vual and his teachings to recruit members for His cult.
 
  Nothing spreads faster than word of mouth, and the town you reside in, Dromos, is the perfect breeding ground for corruption since the residents thrive in misery and despair. 
@@ -22,3 +24,6 @@ Go door to door and convert the townsfolk to your cult. Conversion is displayed 
 
 
 
+
+
+[def]: Cultist.png
