@@ -11,8 +11,6 @@ layout: default
 
 *   [Dollhouse](Dollhouse.html)
 
-*   [Fishing game](./FishingGame.html)
-
 #### Group projects:
 
 *   [Ghoulish Pipedream](./ghoulishpipedream.html)
