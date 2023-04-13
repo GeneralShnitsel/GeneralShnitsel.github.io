@@ -18,6 +18,10 @@ I have mainly worked on the stun mechanics and brakable objects within the game 
 
 The Destructible objects that I am working to create now is done through the chaos engine in Unreal which I am working to make objects only destructible under certain conditions.
 
+The destructible objects now break on contact with the Sarge AI and decay when pieces break off of the main cluster.
+
 <img src="Images/Breakable.PNG" alt="Breakable Models">
+
+I created a secondary stun mechanic where the AI can be stunned if the player has picked up a certain LED light pick-up to stop the Sarge AI if he has grabbed the player allowing them to escape the AI
 
 
