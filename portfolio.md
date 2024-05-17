@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<button name="btnHome" onclick="https://generalshnitsel.github.io/">Home</button>
+<button name="btnHome" onclick="window.open(https://generalshnitsel.github.io/)">Home</button>
 
 
 [Home](./)&nbsp;&nbsp;[Portfolio](./portfolio.html)&nbsp;&nbsp;[Contacts](./Contacts.html)&nbsp;&nbsp;
