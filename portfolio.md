@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<button name="button" onclick="./">Home</button>
 [Home](./)&nbsp;&nbsp;[Portfolio](./portfolio.html)&nbsp;&nbsp;[Contacts](./Contacts.html)&nbsp;&nbsp;
 
 ## This is my portfolio
