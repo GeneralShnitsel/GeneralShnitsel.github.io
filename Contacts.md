@@ -2,7 +2,9 @@
 layout: default
 ---
 
-[Home](./)&nbsp;&nbsp;[Portfolio](./portfolio.html)&nbsp;&nbsp;[Contacts](./Contacts.html)&nbsp;&nbsp;
+[<button>Home</button>](./)
+&nbsp;&nbsp;[<button>Portfolio</button>](./portfolio.html)
+&nbsp;&nbsp;[<button>Contact</button>](./Contacts.html)&nbsp;&nbsp;
 
 ## My Contacts
 
